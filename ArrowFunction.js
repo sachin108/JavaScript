@@ -1,4 +1,4 @@
-const Hello = (name) =>{
+Hello = (name) =>{
 	return "Hello"+" "+name;
 }
 console.log(Hello("Jon"));
